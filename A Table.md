@@ -6,3 +6,6 @@
 | Content cell | Content cell <br> Centent cell <br> Centent cell |
 | Content cell | Content cell |
 
+<p align="left"><img src="./subnero.png" width="15%"/></p>
+<p align="left"><em>Figure 1.1: Subnero Logo</em></p>
+
