@@ -12,3 +12,26 @@
 [apple](http://apple.com)
 
 - [ ] To review the issue https://github.com/subnero1/wnc-elec/issues/125
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+<details>
+<summary>History of Job</summary>
+- Daewoo <br>
+- EC <br>
+- DSM <br>
+- UMS <br>
+- Rextec System <br>
+- WellTest <br>
+- Fizix <br>
+- Subnero <br>
+</details>
