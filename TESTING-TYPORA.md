@@ -5,10 +5,10 @@
 |  NO  | DESCRIPTION     | REMARK   |
 | :--: | :-------------- | -------- |
 |  1   | - Hello         | Greeting |
-|  2   | - lol<br> -haha | Laughing |
+|  2   | - lol<br> - haha | Laughing |
 |  3   | - Nothing here  |          |
 
-<p align=center><em>Table 1.0: Testing</em></p>
+<p align=left><em>Table 1.0: Testing</em></p>
 
 
 
